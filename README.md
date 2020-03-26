@@ -1,4 +1,4 @@
-#CCI Data Volumes
+# CCI Data Volumes
 
 Script to calculate and print the data volumes for the CCI 
 project as held in the CEDA elasticsearch index. Values are printed
